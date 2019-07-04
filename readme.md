@@ -1,3 +1,2 @@
-#this is a markdown
-
-markdown
+## Readme
+only some training in codewars_kata
